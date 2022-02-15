@@ -1,0 +1,1 @@
+This repository includes all projects in the HTML and CSS bootcamp.
