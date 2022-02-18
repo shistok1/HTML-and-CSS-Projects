@@ -1,0 +1,9 @@
+th, td {
+	background-color: palegreen;
+	font-color: lightblue;
+	border: darkgrey;
+}
+th:hover, td:hover {
+	background-color: darkgreen;
+	border: black;
+}
