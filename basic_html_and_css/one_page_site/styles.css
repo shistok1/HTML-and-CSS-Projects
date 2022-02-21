@@ -1,0 +1,17 @@
+.bg1{
+	background-color: GreenYellow;
+	color: Olive;
+}
+
+.bg2{
+	background-color: Olive;
+	color: GreenYellow;
+}
+
+th, td {
+	border: darkgrey;
+}
+th:hover, td:hover {
+	background-color: darkgreen;
+	border: black;
+}
