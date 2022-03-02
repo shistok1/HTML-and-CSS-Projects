@@ -1,0 +1,11 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans";
+    font-size: 18px;
+}
+
+.info input[type="text"]  {
+	width: 15%;
+	margin: 10px 15px;
+	border: 10px 15px;
+	border-radius: 7px;
+}
