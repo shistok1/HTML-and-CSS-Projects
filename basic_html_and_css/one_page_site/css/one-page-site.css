@@ -4,8 +4,9 @@ body {
 }
 
 .info input[type="text"]  {
-	width: 15%;
-	margin: 10px 15px;
-	border: 10px 15px;
+	width: 17%;
+	margin: 0px 1%;
+    border: 2px;
+	border-style: round;
 	border-radius: 7px;
 }
