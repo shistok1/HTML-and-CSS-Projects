@@ -1,0 +1,9 @@
+.s {
+    background-color: paleturquoise;
+    color: blue;
+}
+
+.s:hover {
+    background-color: blue;
+    color: paleturquoise;
+}

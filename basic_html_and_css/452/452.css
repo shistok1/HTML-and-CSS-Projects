@@ -1,0 +1,14 @@
+.column {
+    float: left;
+    width: 45%;
+    height: 300px;
+    color: blueviolet;
+    margin-left: 2.5%;
+    background-color: lightcyan;
+  }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

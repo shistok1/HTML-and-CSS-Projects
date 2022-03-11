@@ -1,0 +1,8 @@
+table {
+    padding: 10px;
+    border-style: dashed;
+}
+
+th {
+    background-color: palegreen;
+}
